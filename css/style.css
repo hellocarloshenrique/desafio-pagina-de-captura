@@ -10,9 +10,18 @@ body {
     font-family:  sans-serif;
 }
 
+header {
+    padding: 70px;
+    margin-top: 10px;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
 
 .box {
-    padding: 100px;
+/*     padding: 100px; */
     margin: auto;
     display: flex;
     justify-content: center;
